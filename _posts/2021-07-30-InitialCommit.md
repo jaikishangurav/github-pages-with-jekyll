@@ -1,10 +1,4 @@
 ---
-layout: post
-title:  "Initial Commit"
+title: "Initial Commit"
+date: 2021-07-30
 ---
-
-# Welcome
-
-**Hello world**, this is my first Jekyll blog post.
-
-I hope you like it!
